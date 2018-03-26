@@ -23,8 +23,10 @@ organized? How would branches help?
 When you need to make a significant change on the master. As many
 Branches as there are significant changes.
 
+
 How do the diagrams help you visualize the branch structure?
 
+They make it easier to develop visualize the branch structure.
 
 
 What is the result of merging two branches together? Why do we represent it in
